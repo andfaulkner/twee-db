@@ -1,0 +1,6 @@
+--require babel-core/register
+--compilers ts:ts-node/register,tsx:ts-node/register
+--recursive
+--colors
+--watch-extensions
+--growl
